@@ -1,0 +1,112 @@
+
+body {background-image: url(images/cork-wallet.PNG);}
+
+
+
+#navigation-bar {margin-top: 50px;
+color:red;}
+
+.nav-style {
+  font-size: 24px;}
+/*can't get the font color to change on the nav-style*/
+
+h1 {background-color:#4aaaa5;
+color:white;
+padding:10px;
+width:300px;
+margin-top:50px;
+text-align:center;
+border-width:2px;
+border-color:white;
+border-style:solid;}
+
+h2 {font-weight: bold;
+color: #777777;
+text-align:left;}
+
+.connectwithme {text-align:center;
+margin-bottom: 30px;}
+
+.media {
+float:left;
+height:150px;
+width:100px;
+border-width: 2px;
+border-style: solid;
+border-color: #4aaaa5; 
+margin:5px;
+margin-right:7px;
+background-image: url(images/jef414-200.JPEG);}
+
+/*I cannot get the image to fill the container.... I am confused by bootstraps "media-object*/
+
+p {clear:both;
+margin-bottom: 25px}
+
+
+.glyphicon-heart {font-size:40px;
+color:#E80C7A;
+margin-left:40px;
+text-align:center;
+}
+.glyphicon-star {font-size:40px;
+color:#24CC73;
+margin-left:40px;
+text-align:center;}
+
+.glyphicon-camera {font-size:40px;
+color:#FF751E;
+margin-left:40px;
+text-align:center;}
+
+.glyphicon-fire {font-size:40px;
+color:#FFF286;
+margin-left:40px;
+text-align:center;}
+
+.footer {background-color: #DEDEDE;
+height:50px;
+text-align: center;
+margin-top:100px;
+text-align:center;
+border-top-style:solid;
+border-top-width:2px;
+border-top-color:#4aaaa5;}
+
+.countryimage {
+  background-size:contain;
+  transform:scale(20%);
+  float:left;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  margin-right:5px;
+  margin-top:5px;
+  border-style: solid;
+  border-width: 3px;
+  border-color:#4aaaa5; }
+
+.countryname {font-size: 20px;
+  color:white;
+  background-color: #4aaaa5;
+  margin-top: 100px;
+  padding-bottom: 16px;}
+
+.formlayout {margin-top:20px;
+margin-bottom:10px;}
+
+.message {height:100px;
+width:100px;}
+
+.email {height:100px;
+width:100px;}
+
+.name{height:100px;
+width:100px;
+margin-bottom:10px;}
+
+#germany {background-image: url(images/IMGP5918.JPG);}
+#ireland {background-image: url(images/IMGP8190.JPG);}
+#poland {background-image: url(images/IMGP6640.JPG);}
+#czech {background-image: url(images/IMG_0844.jpg);}
